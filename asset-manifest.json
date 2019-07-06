@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mini-checkers-build/static/css/main.9eee456b.chunk.css",
-    "main.js": "/mini-checkers-build/static/js/main.cdccd329.chunk.js",
-    "main.js.map": "/mini-checkers-build/static/js/main.cdccd329.chunk.js.map",
+    "main.js": "/mini-checkers-build/static/js/main.52744f55.chunk.js",
+    "main.js.map": "/mini-checkers-build/static/js/main.52744f55.chunk.js.map",
     "runtime~main.js": "/mini-checkers-build/static/js/runtime~main.1763b151.js",
     "runtime~main.js.map": "/mini-checkers-build/static/js/runtime~main.1763b151.js.map",
     "static/js/2.dc155f86.chunk.js": "/mini-checkers-build/static/js/2.dc155f86.chunk.js",
     "static/js/2.dc155f86.chunk.js.map": "/mini-checkers-build/static/js/2.dc155f86.chunk.js.map",
     "index.html": "/mini-checkers-build/index.html",
-    "precache-manifest.c61e1f60b2badf0775d80d9edcc19148.js": "/mini-checkers-build/precache-manifest.c61e1f60b2badf0775d80d9edcc19148.js",
+    "precache-manifest.02044224dd5dde88ad7241b55ed6ef73.js": "/mini-checkers-build/precache-manifest.02044224dd5dde88ad7241b55ed6ef73.js",
     "service-worker.js": "/mini-checkers-build/service-worker.js",
     "static/css/main.9eee456b.chunk.css.map": "/mini-checkers-build/static/css/main.9eee456b.chunk.css.map"
   }
